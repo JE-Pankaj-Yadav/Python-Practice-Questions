@@ -1,7 +1,7 @@
 # --------------------------------------------------------------
 # 🔰 50 Basic Python Practice Questions with Solutions
 # --------------------------------------------------------------
-# 📌 Author: Pankaj Kumar
+# 📌 Author: Pankaj Yadav
 # 📌 Description: Beginner-friendly Python practice problems
 #     covering syntax, conditions, loops, strings, lists, and functions.
 # 📌 Each question is solved with comments for easy understanding.
